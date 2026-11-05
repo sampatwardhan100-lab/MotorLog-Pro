@@ -1,1 +1,2 @@
 # MotorLog-Pro
+MotorLog Pro v4.6 is a lightweight, offline-first vehicle telemetry and expense tracker designed for 2-wheelers and 4-wheelers. Architected by Sameer Sanjay Patwardhan, it combines natural language and voice logging, dual-trigger maintenance tracking (distance and time), real-world fuel economy calibration against OEM benchmarks, and emergency roadside (ICE) access into a single, responsive app with cloud sync and full offline data portability.
